@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26763'
     url: http://www.gutenberg.org/2009/agents/26763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24841#Friendly-Visiting-among-the-PoorA-Handbook-for-Charity-Workers
 gutenberg_issued: '2008-03-15'
 gutenberg_type: Text
 identifiers:
